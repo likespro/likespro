@@ -8,6 +8,5 @@ Secondary product: the easiest crypto miner for Android devices. It mines direct
 
 Currently working on MasterCloud. More details will be in the future.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=likespro&layout=compact)
 
-![likespro's GitHub stats](https://github-readme-stats.vercel.app/api?username=likespro&show_icons=true&rank_icon=percentile)
+![likespro's GitHub stats](https://github-readme-stats.vercel.app/api?username=likespro&show_icons=true&rank_icon=percentile) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=likespro&layout=compact)
