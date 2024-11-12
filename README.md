@@ -2,9 +2,9 @@
 
 Diverse developer. Knowing C/C++, Java, Kotlin (favourite), Python, Solidity, Intel Assembly. Developing projects from crypto wallets to Minecraft plugins.
 
-### Main product: the first mobile EVM-compatible cryptowallet with NFC support. Available on Google Play. Try it -> surl.li/gxjox (short link)
+### Main product: the first mobile EVM-compatible cryptowallet with NFC support.
 
-Secondary product: the easiest crypto miner for Android devices. It mines directly on the phone. There is no minimal threshold (just have the amount to cover network fees). Try it -> t.me/masterminer_app (download from telegram)
+Secondary product: the easiest crypto miner for Android devices. It mines directly on the phone. There is no minimal threshold (just have the amount to cover network fees).
 
 Currently working on MasterCloud. More details will be in the future.
 
