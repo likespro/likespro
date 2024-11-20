@@ -21,5 +21,5 @@
 
 <div style="display: flex; flex-direction: row; justify-content: space-evenly; align-items: center; flex-wrap: wrap; width: 100%; margin-top: 15px;">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=likespro&show_icons=true&locale=en&layout=compact" height="170px" alt="likespro" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=likespro&show_icons=true&locale=en" height="170px" alt="likespro" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=likespro&show_icons=true&locale=en&rank_icon=percentile" height="170px" alt="likespro" /></p>
 </div>
